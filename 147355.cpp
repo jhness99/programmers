@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //크기가 작은 부분 문자열
 #include <string>
 #include <vector>
@@ -17,7 +16,7 @@ int solution(string t, string p) {
             answer++;
     }
     return answer;
-=======
+
 //크기가 작은 부분 문자열
 #include <string>
 #include <vector>
@@ -36,5 +35,4 @@ int solution(string t, string p) {
             answer++;
     }
     return answer;
->>>>>>> 7e3cdf22f60d3375536a16d355516c151b7652d7
 }
